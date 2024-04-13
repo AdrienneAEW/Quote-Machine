@@ -1,2 +1,2 @@
 # Quote-Machine
-Freed Code Camp Project from Front End Libraries Training
+Free Code Camp Project from Front End Libraries Training
